@@ -1,0 +1,14 @@
+Time_Since_Last_Cleaning
+Time_Since_Last_Inspection
+Cleanliness_Score
+Interaction_Term
+Hour_Of_Day
+Day_Of_Week
+Location_Type_Conf Rm
+Location_Type_Office
+Location_Type_Other
+Location_Type_Restroom
+Location_Type_Stairs
+Traffic_Volume_High
+Traffic_Volume_Low
+Traffic_Volume_Medium

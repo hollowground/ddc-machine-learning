@@ -1,0 +1,28 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.vscode
+
+# project files
+app.zip
+cleanliness_data_space_types.csv
+cleanliness_data.csv
+cleanliness_model.joblib
+general_cleanliness_model.joblib
+general_ml_space_types.py
+general_ml.py
+general_predictor.py
+general_predictor.zip
+general_space_types_predictor.py
+list_of_features_used_during_training.txt
+ml.py
+next_sched_ml.py
+next_sched_predictor.py
+predictor.py
+simple_ml.py
+test_scaler.py
